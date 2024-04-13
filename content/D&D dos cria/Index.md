@@ -8,4 +8,6 @@ longform:
     - 2 cacos
   sceneTemplate: templates/note.md
   ignoredFiles: []
+tags:
+  - Teste
 ---
