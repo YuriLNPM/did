@@ -2,6 +2,7 @@
 title: Sindragosa(WIP)
 draft: false
 tags:
+  - caco
 ---
 <iframe
   src="https://www.wowhead.com/npc=36853/sindragosa#modelviewer"
