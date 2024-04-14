@@ -4,12 +4,11 @@ draft: false
 tags:
   - caco
 ---
-<iframe
-  src="https://www.wowhead.com/npc=36853/sindragosa#modelviewer"
-  title="iframe Example 1"
-  width="400"
-  height="300">
-</iframe>
+
+![](https://s4.ezgif.com/tmp/ezgif-4-9046a1df06.gif)
 
 
-![](https://wow.zamimg.com/sound-ids/live/enus/202/560330/IC_Sindragosa_Arcane01.ogg)
+![Sindragosa|100x200](https://wow.zamimg.com/sound-ids/live/enus/202/560330/IC_Sindragosa_Arcane01.ogg)
+
+
+
