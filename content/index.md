@@ -5,4 +5,4 @@ tags: []
 
 [Me leia ai](Me%20leia%20ai.md)
 
-vamos de vala
+![Yes](https://www.youtube.com/watch?v=DBgWB1NF7hY)
