@@ -1,8 +1,7 @@
 ---
 title: El chaco
 draft: false
-tags:
-  - Teste
+tags: []
 ---
 
 Hm burrito
