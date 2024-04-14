@@ -14,7 +14,7 @@ Hm burrito
 [El caco](https://www.youtube.com/watch?v=DBgWB1NF7hY)
 ![[VO_701_Guldan_11.ogg]]
 
-[VO_701_Guldan_11](VO_701_Guldan_11.ogg)
+[Sindragosa](https://wow.zamimg.com/sound-ids/live/enus/202/560330/IC_Sindragosa_Arcane01.ogg)
 
 [madara](https://www.youtube.com/watch?v=ioYL1jS904c)
 
