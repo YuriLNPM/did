@@ -1,3 +1,8 @@
+---
+title: Sindragosa(WIP)
+draft: false
+tags:
+---
 <iframe
   src="https://www.wowhead.com/npc=36853/sindragosa#modelviewer"
   title="iframe Example 1"
