@@ -5,4 +5,5 @@ tags:
 
 # Cidades
 - [Tiragarde](Tiragarde.md)
+- Ghostvar
 - 
