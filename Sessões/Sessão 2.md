@@ -1,0 +1,37 @@
+# Personagens
+- Dox, o Bardo
+- Mendel, o Mago
+- Adrie, a Feiticeira
+- Delgak, o Ranger
+# Ganchos Atuais
+- Aventureiros se reunindo em uma taverna qualquer
+  - Passo atual: Começo da aventura
+  - Próximo passo: Achar causa comum
+- Dox quer ficar famoso
+  - Passo atual: Cantando na taverna
+  - Próximo passo: ???
+# Coisas que eles precisam descobrir
+- Os artefatos mostram que a taverna foi atacada por um conventículo de bruxas.
+
+# NPCs que provavelmente irão aparecer
+- Ellen Calmalua
+  - Voz calma e sedutora
+  - A "gerente" da taverna Escudo Quebrado
+  - Humana, esbelta
+  - Bruxa escondida
+- Victor Espinveia
+  - Veterano, voz aspera e cheia de dor
+  - Família foi morta por bruxas locais, deseja vingança pelo ocorrido
+  - 
+# Mecânicas importantes
+- Combate básico do D&D
+# Encontros Planejados
+- Raul, o Glutonoso
+- Trio Sangracoração
+- Xy'mox?
+# Reprise
+>Os jogadores chegam nos portões da Mansão Capelo, onde encontram Delgak.
+>Ao abrirem o portão, Mendel tem um quadro de diarreia e vai para o arbusto mais próximo.
+>
+>**Fim da sessão.**
+# Resumo
