@@ -8,3 +8,4 @@ tags:
 # História, cultura e ambientação
 Por ser uma cidade comercial, Tiragarde se encontra no litoral do continente. Tal é a proporção do comércio, boa parte das embarcações ficam alguns dias para reabastecer suprimentos, descansar devidamente e conseguir dinheiro ou artefatos preciosos.
 ![](Tiragarde%20OST.wav)
+# Pontos importantes
