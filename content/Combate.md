@@ -21,7 +21,7 @@ Se você realiza a ação Desengajar, seu movimento não provocará [Ataque de O
 ## Disparada
 Dobra seu deslocamento atual. Qualquer aumento ou redução do seu deslocamento muda esse movimento adicional na mesma medida. Se seu deslocamento de 9 metros for reduzido a 4,5 metros, por exemplo, você poderá se mover até 9 metros no seu turno se realizar uma disparada. 
 ## Esconder
-Quando o personagem for se esconder, deverá fazer um teste de Furtividade. Seu movimento será reduzido na metade ao se [esgueirar](#Escalar,%20nadar,%20esgueirar%20e%20rastejar). Você não pode se esconder de uma criatura que possa vê-lo claramente, e se fizer algum barulho (como gritar um aviso ou derrubar um vaso), o barulho denuncia sua posição. Uma criatura invisível não pode ser vista, assim ela sempre pode tentar se esconder. No entanto, os sinais de sua passagem ainda podem ser notados e ela ainda deve permanecer em silêncio. Testes de Percepção são usados para detectar personagens furtivos. Procurar abrigo ou estar em um ambiente obscurecido lhe dará vantagem no teste de Furtividade.
+Quando o personagem for se esconder, deverá fazer um teste de Furtividade. Seu movimento será reduzido na metade ao se esgueirar. Você não pode se esconder de uma criatura que possa vê-lo claramente, e se fizer algum barulho (como gritar um aviso ou derrubar um vaso), o barulho denuncia sua posição. Uma criatura invisível não pode ser vista, assim ela sempre pode tentar se esconder. No entanto, os sinais de sua passagem ainda podem ser notados e ela ainda deve permanecer em silêncio. Testes de Percepção são usados para detectar personagens furtivos. Procurar abrigo ou estar em um ambiente obscurecido lhe dará vantagem no teste de Furtividade.
 ## Esquivar
 O personagem poderá se concentrar em esquivar os possíveis ataques em sua direção. Isso irá valer para todos os ataques feitos antes de seu próximo turno mas apenas ataques físicos, ou seja, não poderá fazer isso com magias ou situações apropriadas ditadas pelo Mestre.
 ## Preparar
@@ -42,7 +42,7 @@ Ação Bônus é conceituada quando alguma magia ou situação específica pede 
 # Interação![](ncfitliq.bmp)
 Você pode se comunicar a qualquer momento que puder, através de expressões ou gestos breves, à medida que joga seu turno. Além disso, poderá interagir com um único objeto, como por exemplo desembainhar sua arma, guardar algum item, mover um objeto pequeno, abrir ou fechar uma porta. Se quiser fazer isso com algum outro objeto além do primeiro, deverá gastar uma [Ação Padrão![](uuuz33fl.bmp)](#Ação%20Padrão![](uuuz33fl.bmp)).
 # Reação![](86rcdrsy.bmp)
-Uma reação pode ser feita no seu turno ou no turno de outros, desde que seja ativada a condição dessa reação. Algumas magias ou itens fazem uso dessa reação. Um uso comum para uma reação é um [Ataque de Oportunidade](#Ataque%20de%20Oportunidade) ou uma ação preparada anteriormente.
+Uma reação pode ser feita no seu turno ou no turno de outros, desde que seja ativada a condição dessa reação. Algumas magias ou itens fazem uso dessa reação. Um uso comum para uma reação é um Ataque de Oportunidade ou uma ação preparada anteriormente.
 ## Ataque de Oportunidade
 ![](9whie2pt.bmp)
 Quando um alvo que está dentro do alcance se move para fora do mesmo, ele provocará uma ataque de oportunidade. Quem defere o ataque o faz com sua arma empunhada, como um ataque normal e previne movimento adicional(além do já feito) do alvo. Visto que é um ataque, ele poderá errar ou ser um crítico do mesmo modo que um ataque normal.
