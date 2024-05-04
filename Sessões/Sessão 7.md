@@ -4,10 +4,10 @@
 - Adrie, a Feiticeira
 - Delgak, o Ranger
 # Ganchos Atuais
-- Aventureiros se reunindo em uma taverna qualquer
-  - Passo atual: Começo da aventura
-  - Próximo passo: Achar causa comum
-- Dox quer ficar famoso
+- Show do Dox
+  - Passo atual: Se preparando pro show
+  - Próximo passo: Fazer o show na praça da cidade
+- 
   - Passo atual: Cantando na taverna
   - Próximo passo: ???
 # Coisas que eles precisam descobrir
@@ -35,3 +35,4 @@
 >
 >**Fim da sessão.**
 # Resumo
+- 
