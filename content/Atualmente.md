@@ -9,3 +9,4 @@ No entanto, tal prosperidade contém suas ressalvas. As revoadas dracônicas tê
 
 Ademais, tal ordem deverá um dia ser balançada e assim renascer em uma nova era, como sempre deve ser...
 
+![](Atualmente.mp3)
