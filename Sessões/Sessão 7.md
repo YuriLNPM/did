@@ -35,4 +35,8 @@
 >
 >**Fim da sessão.**
 # Resumo
-- 
+- Lembrar da adaga de Bhaal da adrie, além disso quer uma arte que hipnotiza homens tocando flauta.
+- Dox encontrar Magni Barbabronze(neto do rei dos anões), pede para ajudar Benhurrur, nos Ermos Pantonosos.
+- Mendel pega os livros sobre Lothar, Myrkul, Revoada Vermelha e Bronze.
+- Cacique Mrglmrgl
+- Murlocs, Solam, Delgak, Mendel, Adrie
