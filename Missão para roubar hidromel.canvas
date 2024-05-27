@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"b7c1ba6b0cfae397","type":"text","text":"Portão da fortaleza","x":-25,"y":3,"width":250,"height":60},
+		{"id":"9f1f383d46bde480","type":"text","text":"Depósito de armas","x":-275,"y":-440,"width":250,"height":60},
+		{"id":"36428afca9b88ebe","type":"text","text":"Quartel","x":-760,"y":-440,"width":250,"height":60},
+		{"id":"64bec1e8f59fff36","type":"text","text":"Porão","x":225,"y":-700,"width":250,"height":60},
+		{"id":"bda1ae20fcd581c6","type":"text","text":"- Dois guardas que mais parecem armaduras imóveis.\n- Eles não conversam, apenas não deixam passar.\n- Um deles tem uma cicatriz no olho fechado, é um olho mágico que vê criaturas invisíveis.","x":-76,"y":160,"width":352,"height":220},
+		{"id":"a1c80efc6f1ff4de","type":"text","text":"Sótão","x":-760,"y":-205,"width":250,"height":60},
+		{"id":"157fd39ea22abd74","type":"text","text":"Pátio","x":-275,"y":-200,"width":250,"height":50},
+		{"id":"0fb5cef7e81bf1a7","type":"text","text":"Jardim","x":225,"y":-205,"width":250,"height":60},
+		{"id":"9c85b1e65db11718","type":"text","text":"Cozinha","x":225,"y":-440,"width":250,"height":60},
+		{"id":"e2adda5019cd5e43","x":-480,"y":3,"width":260,"height":267,"type":"text","text":"- Parece não haver ninguém.\n- Área muito aberta, \"para onde vocês olham?\"\n- Se não notarem a torre de vigia, ganham 1 de notoriedade"},
+		{"id":"9bc23bf70d291753","x":-320,"y":-765,"width":340,"height":235,"type":"text","text":"- Alguns mosquetes e espadas velhos.\n- Acham 10 de po, mas está dentro de um cofre, dt 28 de prestidigitação.\n- Cofre se mexido gera 1 de notoriedade, se não destrancado gera 2"},
+		{"id":"ce94ffc19ce4a31a","type":"text","text":"- Cada chamada de atenção, é +1 de notoriedade\n- Em 5, a travessia da fortaleza fica mais difícil(todos os testes + 5 na dt)\n- Em 10, os soldados dali não confiam mais neles e serão ativamente colocados dentro da cela.","x":-1200,"y":-1005,"width":440,"height":210},
+		{"id":"b37f1e7f3c71d8d8","x":-805,"y":-765,"width":340,"height":235,"type":"text","text":"- Várias camas, dois soldados dormem. Os dois roncam bastante, estão encostados nas duas camas rodos de chão.\n- O piso está escorregadio, terreno difícil. Teste de acrobacia dt 15 para não fazer barulho.\n- 1 de notoriedade para acordar cada guarda."},
+		{"id":"1c620d92c48d2f9e","type":"text","text":"Cada 3 de notoriedade, jogador irá rolar na tabela: \n- 1, 2 : Um guarda irá lhe abordar\n- 3, 4 : Um alarme irá tocar\n- 5, 6 : As portas são trancadas","x":-1200,"y":-765,"width":330,"height":190},
+		{"id":"d6afe8c2b8e76e9e","x":-1200,"y":-205,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"6736910a9f1e87eb","fromNode":"b7c1ba6b0cfae397","fromSide":"left","toNode":"157fd39ea22abd74","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"fccac07195d5088f","fromNode":"b7c1ba6b0cfae397","fromSide":"bottom","toNode":"bda1ae20fcd581c6","toSide":"top","toEnd":"none"},
+		{"id":"77bb42bd6cbe0ade","fromNode":"b7c1ba6b0cfae397","fromSide":"right","toNode":"0fb5cef7e81bf1a7","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"1bc11cb43bd3f80c","fromNode":"0fb5cef7e81bf1a7","fromSide":"left","toNode":"157fd39ea22abd74","toSide":"right","fromEnd":"arrow"},
+		{"id":"b796314812d0ec99","fromNode":"157fd39ea22abd74","fromSide":"top","toNode":"9f1f383d46bde480","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"4cbb6f7fba76b7c9","fromNode":"0fb5cef7e81bf1a7","fromSide":"top","toNode":"9c85b1e65db11718","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"d647ff8fca7e08fc","fromNode":"9f1f383d46bde480","fromSide":"right","toNode":"9c85b1e65db11718","toSide":"left"},
+		{"id":"1039a7ee72d06307","fromNode":"9f1f383d46bde480","fromSide":"left","toNode":"36428afca9b88ebe","toSide":"right"},
+		{"id":"c7807be086c829b0","fromNode":"36428afca9b88ebe","fromSide":"bottom","toNode":"a1c80efc6f1ff4de","toSide":"top"},
+		{"id":"4cc430bd677107d5","fromNode":"a1c80efc6f1ff4de","fromSide":"right","toNode":"157fd39ea22abd74","toSide":"left"},
+		{"id":"9107e710e01e1b8a","fromNode":"64bec1e8f59fff36","fromSide":"bottom","toNode":"9c85b1e65db11718","toSide":"top","fromEnd":"arrow"},
+		{"id":"2cc0f87e84e9ce7c","fromNode":"157fd39ea22abd74","fromSide":"bottom","toNode":"e2adda5019cd5e43","toSide":"top","toEnd":"none"},
+		{"id":"d560c770e0c88bfc","fromNode":"9bc23bf70d291753","fromSide":"bottom","toNode":"9f1f383d46bde480","toSide":"top","toEnd":"none"},
+		{"id":"4aff1a64d8970aa4","fromNode":"36428afca9b88ebe","fromSide":"top","toNode":"b37f1e7f3c71d8d8","toSide":"bottom"},
+		{"id":"d5a4b6469a5049a4","fromNode":"a1c80efc6f1ff4de","fromSide":"left","toNode":"d6afe8c2b8e76e9e","toSide":"right"}
+	]
+}

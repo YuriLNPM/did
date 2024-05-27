@@ -1,0 +1,3 @@
+- Ao falar com simonez, os jogadores decidem o próximo ponto de ação.
+- Se decidirem roubar os suprimentos da fortaleza: [Missão para roubar hidromel](Missão%20para%20roubar%20hidromel.canvas)
+- Se decidirem se aventurar nos assentamentos murlocs da costa: 
