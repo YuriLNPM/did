@@ -5,7 +5,7 @@ tags: []
 ---
 # Espaços
 ![](InventorySlots.webp)
-0. Munição(Se necessário)
+0. Munição(Se necessário)/Amuletos
 1. Capacetes/Tiaras/Adornos
 2. Colares/Amuletos
 3. Espaldares/Ombros
@@ -26,3 +26,5 @@ tags: []
 18. Arma à distância/Armas especiais
 19. Tabardo
 # Como funciona
+- Todos os itens funcionam como um vestuário avançado, podendo ter propriedades mágicas ou não.
+- Tais equipamentos  
