@@ -25,6 +25,8 @@ tags: []
 17. Arma(Mão não-dominante)
 18. Arma à distância/Armas especiais
 19. Tabardo
-# Como funciona
+# Como funcionam
 - Todos os itens funcionam como um vestuário avançado, podendo ter propriedades mágicas ou não.
-- Tais equipamentos  
+- Os itens que compõem peças de roupa normalmente são equipamentos comuns, salvo exceções como luvas e outros.
+- Anéis, amuletos, colares, pulsos e armas normalmente tem propriedades mágicas.
+- Tabardos são o tecidos especiais que desempenham a função de demonstrar a reputação de um individuo com certa facção.
