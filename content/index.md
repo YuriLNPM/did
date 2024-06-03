@@ -2,9 +2,9 @@
 title: Começo
 tags:
 ---
-# D&D em miúdos
+# Mecânicas
 - [Combate](Combate.md)
-- 
+- Equipamento
 # Locais
 - [Tiragarde](Tiragarde.md)
 - Ghostvar
