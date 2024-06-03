@@ -5,6 +5,7 @@ tags: []
 ---
 # Espaços
 ![](Equipamento-20240603111957586.webp)
+
 0. Munição(Se necessário)/Amuletos
 1. Capacetes/Tiaras/Adornos
 2. Colares/Amuletos
