@@ -12,4 +12,9 @@ tags:
 - [[Ashkandi, Montante da Irmandade]]
 ## Cajados
 - Atiesh, o Cajado do Guardião
-- 
+# Especiais
+
+## Adrie
+- [[Sanguinolência]]
+## Mendel
+- [[Cajado Atroz]]

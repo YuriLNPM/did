@@ -15,7 +15,8 @@
 		{"id":"1c620d92c48d2f9e","type":"text","text":"Cada 3 de notoriedade, jogador irá rolar na tabela: \n- 1, 2 : Um guarda irá lhe abordar\n- 3, 4 : Um alarme irá tocar\n- 5, 6 : As portas são trancadas","x":-1200,"y":-765,"width":330,"height":190},
 		{"id":"b37f1e7f3c71d8d8","type":"text","text":"- Várias camas, dois soldados dormem. Os dois roncam bastante, estão encostados nas duas camas rodos de chão.\n- O piso está escorregadio, terreno difícil. Teste de acrobacia dt 15 para não fazer barulho.\n- 1 de notoriedade para acordar cada guarda.","x":-805,"y":-787,"width":340,"height":287},
 		{"id":"d6afe8c2b8e76e9e","type":"text","text":"- Chave para o porão +\n- 1d4: \n- 1 : 5po\n- 2 : 1 espada velha (1d6)\n- 3 : Espaldares da guarda (Remove 1 de notoriedade ao uso)\n- 4 : 1 alarme soa (+1 de notoriedade)","x":-1260,"y":-311,"width":320,"height":272},
-		{"id":"850631ec610fb51c","type":"text","text":"- Ao passar pelos jardins, notam que estão sendo vigiados.\n- Dois cães de guarda fixam nos jogadores e devem ser silenciados.\n- [[Cães]]\n- Depois de 1 round, eles fogem e alertam os guardas. +1 de notoriedade para cada um que sobreviver","x":640,"y":-304,"width":420,"height":259}
+		{"id":"850631ec610fb51c","type":"text","text":"- Ao passar pelos jardins, notam que estão sendo vigiados.\n- Dois cães de guarda fixam nos jogadores e devem ser silenciados.\n- [[Cães]]\n- Depois de 1 round, eles fogem e alertam os guardas. +1 de notoriedade para cada um que sobreviver","x":640,"y":-304,"width":420,"height":259},
+		{"id":"2c8ec64e40a3d73c","x":630,"y":-485,"width":440,"height":150,"type":"text","text":"- Ao entrar na cozinha, terão que passar pelos soldados procurando comida\n- +2 de notoriedade se alertarem os guardas."}
 	],
 	"edges":[
 		{"id":"6736910a9f1e87eb","fromNode":"b7c1ba6b0cfae397","fromSide":"left","toNode":"157fd39ea22abd74","toSide":"bottom","fromEnd":"arrow"},
@@ -33,6 +34,7 @@
 		{"id":"d560c770e0c88bfc","fromNode":"9bc23bf70d291753","fromSide":"bottom","toNode":"9f1f383d46bde480","toSide":"top","toEnd":"none"},
 		{"id":"4aff1a64d8970aa4","fromNode":"36428afca9b88ebe","fromSide":"top","toNode":"b37f1e7f3c71d8d8","toSide":"bottom","toEnd":"none"},
 		{"id":"d5a4b6469a5049a4","fromNode":"a1c80efc6f1ff4de","fromSide":"left","toNode":"d6afe8c2b8e76e9e","toSide":"right","toEnd":"none"},
-		{"id":"62773424dd046088","fromNode":"0fb5cef7e81bf1a7","fromSide":"right","toNode":"850631ec610fb51c","toSide":"left","toEnd":"none"}
+		{"id":"62773424dd046088","fromNode":"0fb5cef7e81bf1a7","fromSide":"right","toNode":"850631ec610fb51c","toSide":"left","toEnd":"none"},
+		{"id":"b26837ba27919bfe","fromNode":"9c85b1e65db11718","fromSide":"right","toNode":"2c8ec64e40a3d73c","toSide":"left","toEnd":"none"}
 	]
 }
