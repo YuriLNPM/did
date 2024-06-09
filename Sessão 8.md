@@ -6,4 +6,10 @@
 De vez em quando, vocês percebem movimentos pelo canto do olho, criaturas se esgueirando nas águas rasas da baía, prontas para atacar. Ocasionalmente, vocês encontram um caminho de pranchas de madeira elevadas, meio afundadas e escorregadias com umidade, fornecendo uma rota precária através do brejo"
 - Batalham 6 [Murlocs](Murlocs.md) e interagem com as caixas na região.
 - Em uma das caixas: "Essa caixa está cheia de marcas de garras e bem molhada. Tentando abri-la revela vários quilos de feno encharcado e um recipiente de vidro grande com líquido vermelho dentro" 
-- 
+- Notam que existe uma carcaça na praia, do primeiro oficial Expedito, conversam com a carcaça: "Os marinheiros da Terceira Frota estão amaldiçoados e fadados a vagar para sempre em grande agonia pelo litoral. A angústia de Simonez está ligada à nossa. Enquanto sofrermos, ele também sofrerá. Acabe com o sofrimento dos espíritos dos meus amigos!"
+- Batalham contra 2 [[marinheiros mortos]] e 1 capitão Halyndor. 
+- Encontram a chave para o Baú no fundo do navio e descobrem um artefato chamado "O olho de Paleth" que precisa ser purificado por um clérigo local.
+- Ao chegar no clérigo: "O Olho de Paleth? Vocês vieram a mando de Simonez? Ó luz, de novo não! Simonez está morto, guris. Vocês não são os primeiros que vem aqui por causa dele. O olho de Paleth foi recuperado e purificado há um bom tempo atrás, nós pensamos que a maldição se esvaiu. Menos de um ano atrás, o pobre Simonez faleceu, seu corpo arruinado pela bebida. Amaldiçoado a vagar a terra mortal sem rumo... nem o coitado do Simonez pôde escapar esse fim. Não me perguntem o que vocês me trouxeram, hérois. Vocês estão melhores se esquecerem que tudo isso aconteceu..."
+- Ao investigar o artefato, ele se mostra mais como uma bússola, o qual leva eles para uma caverna onde eles podem ouvir uma Naga fazendo uma magia.
+- Naga chamada Sarevess que fala com sss puxado "Sssim... este local me servirá bastante. Com o poder delesss fluindo atravésss de mim, eu corromperei esssa terra, transformando sua belezasss em pesadelo. Aproveitarei a bagunça que está acontecendo no mundo, o quê ossss mortais chamam de Cataclisssma. Pela rainha Azshara e pela glória dosss Deuses antigos. "
+- Se enfrentarem a naga, ela dropa "Colar do Abismo" e uma nota dizendo que 
