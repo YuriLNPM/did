@@ -10,15 +10,6 @@ De vez em quando, vocês percebem movimentos pelo canto do olho, criaturas se es
 - Batalham contra 2 [[marinheiros mortos]] e 1 capitão Halyndor. 
 - Encontram a chave para o Baú no fundo do navio e descobrem um artefato chamado "O olho de Paleth" que precisa ser purificado por um clérigo local.
 - Ao chegar no clérigo: "O Olho de Paleth? Vocês vieram a mando de Simonez? Ó luz, de novo não! Simonez está morto, guris. Vocês não são os primeiros que vem aqui por causa dele. O olho de Paleth foi recuperado e purificado há um bom tempo atrás, nós pensamos que a maldição se esvaiu. Menos de um ano atrás, o pobre Simonez faleceu, seu corpo arruinado pela bebida. Amaldiçoado a vagar a terra mortal sem rumo... nem o coitado do Simonez pôde escapar esse fim. Não me perguntem o que vocês me trouxeram, hérois. Vocês estão melhores se esquecerem que tudo isso aconteceu..."
----
-
-
 - Ao investigar o artefato, ele se mostra mais como uma bússola, o qual leva eles para uma caverna onde eles podem ouvir uma Naga fazendo uma magia.
 - Naga chamada Sarevess que fala com sss puxado "Sssim... este local me servirá bastante. Com o poder delesss fluindo atravésss de mim, eu corromperei esssa terra, transformando sua belezasss em pesadelo. Aproveitarei a bagunça que está acontecendo no mundo, o quê ossss mortais chamam de Cataclisssma. Pela rainha Azshara e pela glória dosss Deuses antigos. "
-- Se enfrentarem a naga, ela dropa "Colar do Abismo"(Quem utilizar, pode gastar) e uma nota dizendo que 
-
-
-
-Lembrar de mandar o panfleto dos murlocs traduzido. 
-Capital dos elfos noturnos, darnassus em teldrassil.
-Colocar conversão de moedas.
+- Se enfrentarem a naga, ela dropa "Colar do Abismo" e uma nota dizendo que 

@@ -32,6 +32,4 @@ De algum modo, conseguiram derrubar a besta e foram consequentemente agraciados 
 
 ![](Legacies_Aspects.webp)
 
-Muitos outros acontecimentos importantes marcaram esta era: A Grande Cisão, a primeira abertura do Portal Negro, o expurgo de Stratholme, a Primeira Guerra, a Segunda Guerra, a queda do Império Mogu, a chegada dos Draenei, a Corrupção Etérea... Tantos eventos que seus resultados marcam a esfera da realidade até hoje.
-
-# Os dias atuais
+Muitos outros acontecimentos importantes marcaram esta era: A Grande Cisão, a primeira abertura do Portal Negro, o expurgo de Stratholme, a Primeira Guerra, a Segunda Guerra, a queda do Império Mogu, a chegada dos Draenei, a Corrupção Etérea... Tantos eventos que seus resultados marcam a esfera da realidade até hoje. 

@@ -5,6 +5,7 @@ tags:
 # Mecânicas
 - [Combate](Combate.md)
 - [[Equipamento]]
+- [[Comércio]]
 # Locais
 - [Tiragarde](Tiragarde.md)
 - Ghostvar
