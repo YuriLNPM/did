@@ -1,0 +1,3 @@
+**Descrição:** Estas ombreiras são feitas de vinhas e folhas entrelaçadas, formando uma armadura natural, mas resistente. As vinhas são de um verde vibrante, com pequenas flores desabrochando que mudam de cor conforme seu humor. As ombreiras emitem um leve aroma terroso e são surpreendentemente leves, como se fossem uma extensão do seu corpo.
+
+**Crescimento Verdejante (1/Descanso Longo):** Como uma ação, você pode fazer com que as vinhas cresçam rapidamente e cubram seu corpo, concedendo pontos de vida temporários iguais a 5 + seu nível. Esses pontos de vida temporários duram 1 hora ou até serem esgotados.
