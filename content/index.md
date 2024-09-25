@@ -16,6 +16,6 @@ tags:
 - [Itens](Itens.md)
 # Jogadores
 - [Adrie](Adrie.md)
-- [[Delgak]]
-- Dox
-- Mendel
+- [Delgak](Delgak.md)
+- [Dox](Dox.md)
+- [Mendel](Mendel.md)
