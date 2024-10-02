@@ -15,8 +15,8 @@ tags:
 - Mestre: Nível 17-20
 - Ascendido: Nível 20
 # Tipos
-- Profissões de coleta : Herborismo, Mineração, Esfolamento e Pesca.
-- Profissões de fabricação : Alquimia, Encantamento, Ferraria, Engenharia, Escrivania, Joalheira, Couraria e Alfaiataria.
+- Profissões de coleta : [Herborismo](Herborismo.md), [Mineração](Mineração.md), [Esfolamento](Esfolamento.md) e [Pesca](Pesca.md).
+- Profissões de fabricação : [Alquimia](Alquimia.md), Encantamento, Ferraria, [Engenharia](Engenharia.md), Escrivania, Joalheira, Couraria e Alfaiataria.
 # Coleta
 - As profissões de coleta colhem e extraem reagentes do mundo, sejam eles plantas, minérios, peles/escamas, artefatos raros ou peixes.
 - Os testes necessários para coletar dependem da qualidade e da raridade do material.
