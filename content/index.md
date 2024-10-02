@@ -6,6 +6,7 @@ tags:
 - [Combate](Combate.md)
 - [[Equipamento]]
 - [[Comércio]]
+- [Profissões](Profissões.md)
 # Locais
 - [Tiragarde](Tiragarde.md)
 - Ghostvar
