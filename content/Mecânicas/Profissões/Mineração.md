@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](yl1q5euc.bmp)Definição
 A mineração envolve a extração de minérios, gemas e outros materiais valiosos das montanhas e cavernas. Personagens com proficiência em **kits de mineração** podem identificar tipos de minérios e extrair recursos com eficiência.
 
 Aquele que optar por mineração como profissão ganha uma proficiência em kits de mineração.
@@ -16,4 +16,4 @@ Aquele que optar por mineração como profissão ganha uma proficiência em kits
 - Minérios épicos (por exemplo, **Minério de Fragmento Estelar**): CD 30
 - Minérios lendários (por exemplo, **Minério de Pedra Infernal**): CD ??
 # Bônus
-- Mineradores conhecem bem o interior de estruturas como cavernas e rochedos.
+- Mineradores conhecem bem o interior de estruturas como cavernas e rochedos.![](7gltsup8.bmp)

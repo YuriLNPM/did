@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](zevmeyb8.bmp)Definição
 Herborismo foca na coleta e uso de ervas, plantas e ingredientes naturais para diversos fins, como fabricar poções, venenos e remédios. Personagens com proficiência em **kits de herborismo** podem identificar plantas, criar remédios e preparar poções.
 
 Aquele que optar por herborismo como profissão ganha uma proficiência em kits de herborismo.
@@ -23,4 +23,4 @@ Herboristas podem criar remédios e venenos combinando ervas coletadas e outros 
 - **Veneno antimagia**: CD 30, requer 1 erva prateada e 1 espaço de magia.
 - **Expulsão arcana**: CD ??, requer 1 erva épica e ??
 # Bônus
-- Herboristas têm conhecimento sobre as mais diversas vegetações.
+- Herboristas têm conhecimento sobre as mais diversas vegetações.![](pedhn5ep.bmp)

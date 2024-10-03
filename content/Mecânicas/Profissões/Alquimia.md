@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](k4di2yy1.bmp)Definição
 A alquimia é a prática de combinar ingredientes para produzir poções, elixires, transmutações e outros produtos. Personagens com proficiência em **kits de alquimista** podem criar e utilizar esses produtos, além de entender os princípios mágicos e químicos por trás deles.
 
 Aquele que optar por alquimia como profissão ganha uma proficiência em kits de alquimia, vidraria e diluentes.
@@ -16,4 +16,4 @@ Aquele que optar por alquimia como profissão ganha uma proficiência em kits de
 - Produtos cobiçados (por exemplo.: **Poção de Espaço de Magia**): CD 30
 - Produtos inimagináveis (por exemplo.: **Pedra Filosofal**): CD ??
 # Bônus
-- Alquimistas conseguem assimilar os produtos produzidos.
+- Alquimistas conseguem assimilar os produtos produzidos.![](zox4vv99.bmp)

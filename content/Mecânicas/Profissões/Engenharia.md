@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](06eexjmq.bmp)Definição
 A Engenharia envolve o design e a construção de dispositivos mecânicos, armadilhas e invenções mágicas. Personagens com proficiência em **kits de engenheiro** podem criar e utilizar dispositivos e compreender a mecânica envolvida em sua construção.
 
 Aquele que optar por engenharia como profissão ganha uma proficiência em kits de engenharia, chaves-de-fenda e alicates.
@@ -16,4 +16,4 @@ Aquele que optar por engenharia como profissão ganha uma proficiência em kits 
 - Dispositivos mágicos (por exemplo, **Lanterna do Brilho Eterno**): CD 30
 - Dispositivos monumentais (por exemplo, **Máquina de Clima**): CD ??
 # Bônus
-- Engenheiros possuem conhecimento aumentado em engenhocas e invenções.
+- Engenheiros possuem conhecimento aumentado em engenhocas e invenções.![](mh1ho96f.bmp)

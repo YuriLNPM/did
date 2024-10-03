@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](89h4blqo.bmp)Definição
 A pesca envolve a captura de peixes e outras criaturas aquáticas, bem como o uso de técnicas para garantir que os personagens possam coletar materiais de maneira eficiente. Personagens com proficiência em **kits de pescador** podem ser mais eficazes na pesca e na preparação de alimentos.
 
 Aquele que optar por peca como profissão ganha uma proficiência em kits de pescador.
@@ -16,4 +16,4 @@ Aquele que optar por peca como profissão ganha uma proficiência em kits de pes
 - Criaturas mágicas exóticas (por exemplo, **Tubarão Sabre-de-luz**): CD 30
 - Criaturas místicas (por exemplo, **Kraken**): CD ??
 # Bônus
-- Pescadores possuem familiaridade com ambientes aquáticos.
+- Pescadores possuem familiaridade com ambientes aquáticos.![](ysnu2tn4.bmp)

@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](o9bzvtqr.bmp)Definição
 Esfolamento é a prática de remover peles, couros ou outras partes de criaturas. Personagens com proficiência em **kits de esfolamento** podem coletar e trabalhar com esses materiais de maneira mais eficaz.
 
 Aquele que optar por esfolamento como profissão ganha uma proficiência em kits de esfolamento.
@@ -16,4 +16,4 @@ Aquele que optar por esfolamento como profissão ganha uma proficiência em kits
 - Peles excepcionais (por exemplo, **Chifre de Unicórnio**): CD 30
 - Peles jubilosas (por exemplo, **Tentáculo de Aboleth**): CD ??
 # Bônus
-- Esfoladores possuem a capacidade de rastrear certos tipos de criaturas.
+- Esfoladores possuem a capacidade de rastrear certos tipos de criaturas.![](wfvp70x3.bmp)
