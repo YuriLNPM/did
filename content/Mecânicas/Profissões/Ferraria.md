@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](k3acqhf3.bmp)Definição
 A ferraria é a arte de forjar e trabalhar metais para criar armas, armaduras, ferramentas e outros itens. Personagens com proficiência em **ferramentas de ferreiro** podem fabricar e reparar esses itens, além de aprimorá-los com habilidades especiais, como dureza ou efeitos mágicos.
 
 Aquele que optar por ferraria como profissão ganha uma proficiência em ferramentas de ferreiro.
@@ -16,4 +16,4 @@ Aquele que optar por ferraria como profissão ganha uma proficiência em ferrame
 - Itens épicos (por exemplo, **Lâmina de Distorção do Anjo do Caos**): CD 30
 - Itens lendários (por exemplo, **Tormentária, Lâmina Sagrada do Perseguidor dos Ventos**): CD ??
 # Bônus
-- Ferreiros possuem uma pele mais adaptável às condições exóticas.
+- Ferreiros possuem uma pele mais adaptável às condições exóticas.![](6vvfdll1.bmp)

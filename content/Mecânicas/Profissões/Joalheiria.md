@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](1w0a45wb.bmp)Definição
 A joalheria envolve o corte de gemas e a criação de itens como anéis, colares e amuletos a partir de metais preciosos e pedras raras. Joalheiros experientes podem fabricar itens mágicos que conferem bônus ou habilidades especiais, além de vender joias por um alto preço, por meio de um **kit de joalheiria**.
 
 Aquele que optar por joalheiria como profissão ganha uma proficiência em ferramentas de joalheiro.
@@ -16,4 +16,4 @@ Aquele que optar por joalheiria como profissão ganha uma proficiência em ferra
 - Joias mágicas (por exemplo, **Cordão da Proteção Invernal**): CD 30
 - Joias eternas (por exemplo, **Joia da Eternidade: Sabedoria**): CD ??
 # Bônus
-- Joalheiros possuem a capacidade de ser extremamente precisos com as mãos.
+- Joalheiros possuem a capacidade de ser extremamente precisos com as mãos.![](bhal26b2.bmp)

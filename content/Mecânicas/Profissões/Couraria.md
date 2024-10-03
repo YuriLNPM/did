@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](34hukygs.bmp)Definição
 A couraria é a arte de tratar peles, couros e escamas para torná-los utilizáveis na fabricação de armaduras, roupas ou outros itens. Personagens com proficiência em **kits de couraria** podem trabalhar com peles de maneira mais eficaz e produzir itens de maior qualidade.
 
 Aquele que optar por couraria como profissão ganha uma proficiência em ferramentas de coureiro, pinças e retalhos.
@@ -16,4 +16,4 @@ Aquele que optar por couraria como profissão ganha uma proficiência em ferrame
 - Peças únicas (por exemplo, **Tambores da Libertação**): CD 30
 - Peças lendárias (por exemplo, **Tenda Extradimensional**): CD ??
 # Bônus
-- Coureiros possuem a capacidade de rastrear certos tipos de criaturas.
+- Coureiros possuem a capacidade de rastrear certos tipos de criaturas.![](https://wow.zamimg.com/uploads/guide/images/27249.jpg?maxHeight=400)

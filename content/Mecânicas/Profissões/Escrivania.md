@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](pzeyotkv.bmp)Definição
 Escrivania envolve o ato de criar pergaminhos mágicos, runas e escrituras. Escribas especializados podem criar itens com propriedades mágicas, como feitiços armazenados, mensagens criptografadas ou objetos imbuídos com runas mágicas através de **kit de escrivania**.
 
 Aquele que optar por escrivania como profissão ganha uma proficiência em ferramentas de escriba, pena e tinteiro.
@@ -16,4 +16,4 @@ Aquele que optar por escrivania como profissão ganha uma proficiência em ferra
 - Runas vantus (por exemplo, **Runa Vantus: Plano do Fogo**): CD 30
 - Escrituras precursoras (por exemplo, **Engravamento do Ritual de Ascenção Profana**): CD ??
 # Bônus
-- Escribas possuem um conhecimento extraordinário em línguas estrangeiras.
+- Escribas possuem um conhecimento extraordinário em línguas estrangeiras.![](dm0uwwak.bmp)

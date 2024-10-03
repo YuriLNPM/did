@@ -4,7 +4,7 @@ draft: false
 tags:
   - profissão
 ---
-# Definição
+# ![](y49ilvid.bmp)Definição
 Encantamento é a prática de imbuir itens com magia, dando-lhes efeitos especiais que podem variar desde bônus a atributos até habilidades mágicas únicas. Personagens com proficiência em **ferramentas de encantamento** podem criar esses itens e personalizar suas propriedades mágicas.
 
 Aquele que optar por encantamento como profissão ganha uma proficiência em ferramentas de encantamento.
@@ -18,4 +18,4 @@ Para coletar reagentes de encantamento, o encantador deverá desencantar um arte
 - Encantamentos únicos (por exemplo, **toque flamejante**): CD 30
 - Encantamentos transcendentais (por exemplo, **Aniquilação**): CD ??
 # Bônus
-- Encantadores conseguem assimilar a magia em certo grau.
+- Encantadores conseguem assimilar a magia em certo grau.![](o7cxwfal.bmp)
