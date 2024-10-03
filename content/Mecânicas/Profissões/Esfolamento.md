@@ -16,4 +16,4 @@ Aquele que optar por esfolamento como profissão ganha uma proficiência em kits
 - Peles excepcionais (por exemplo, **Chifre de Unicórnio**): CD 30
 - Peles jubilosas (por exemplo, **Tentáculo de Aboleth**): CD ??
 # Bônus
-- Esfoladores possuem a capacidade de rastrear certos tipos de criaturas.![](wfvp70x3.bmp)
+- Esfoladores possuem conhecimento de pontos fracos de certas criaturas.![](wfvp70x3.bmp)

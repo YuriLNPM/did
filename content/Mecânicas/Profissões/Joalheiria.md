@@ -9,7 +9,7 @@ A joalheria envolve o corte de gemas e a criação de itens como anéis, colares
 
 Aquele que optar por joalheiria como profissão ganha uma proficiência em ferramentas de joalheiro.
 # Fabricação
-**Testes de Destreza ou Inteligência**: Para criar joias, os personagens podem fazer um teste de **Destreza (Prestidigitação)** ou **Inteligência (Arcana)** se o item tiver um aspecto mágico. O CD pode variar com base na complexidade do item:
+**Testes de Destreza ou Inteligência**: Para criar joias, os personagens podem fazer um teste de **Destreza (Prestidigitação)** ou **Inteligência (Arcana)** se o item tiver um aspecto mágico, testes somados ao bônus de proficiência. O CD pode variar com base na complexidade do item:
 - Joias simples (por exemplo, **Safira**): CD 15
 - Joias finas (por exemplo, **Olho-do-ébano**): CD 20
 - Joias reluzentes (por exemplo, **Anel de Prata**): CD 25
