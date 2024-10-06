@@ -8,12 +8,12 @@ tags:
 - Em algumas cidades, os treinadores de profissões podem ser procurados com o fim de aprendizagem.
 - As profissões são divididas em coleta e fabricação, mas todas as profissões podem ser usadas como ambos os grupos, dependendo da interpretação.
 # Níveis
-- Noviço: Nível 1-4
-- Aprendiz: Nível 5-8
-- Profissional: Nível 9-12
-- Especialista: Nível 13-16
-- Mestre: Nível 17-20
-- Ascendido: Nível 20
+- Noviço: Nível 1-4 (+2)
+- Aprendiz: Nível 5-8 (+3)
+- Profissional: Nível 9-12 (+4)
+- Especialista: Nível 13-16 (+5)
+- Mestre: Nível 17-20 (+7)
+- Ascendido: Nível 20 (+??)
 # Tipos
 - Profissões de coleta : [Herborismo](Herborismo.md), [Mineração](Mineração.md), [Esfolamento](Esfolamento.md) e [Pesca](Pesca.md).
 - Profissões de fabricação : [Alquimia](Alquimia.md), [Encantamento](Encantamento.md), [Ferraria](Ferraria.md), [Engenharia](Engenharia.md), [[Escrivania]], [Joalheiria](Joalheiria.md) e [[Couraria]].
